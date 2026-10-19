@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1215-implement-infinite-scroll-for-mentors",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1215-implement-infinite-scroll-for-mentors": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1215-implement-infinite-scroll-for-mentors",
+    "origin"
+  ]
+}
